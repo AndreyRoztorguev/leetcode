@@ -21,3 +21,5 @@ var maxProfit = function (prices) {
 
   return maxProfit;
 };
+
+// [7,6,1,5]
